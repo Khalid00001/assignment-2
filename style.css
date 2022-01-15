@@ -92,3 +92,18 @@ margin-top: 100px;
 #almost{
  margin-right: 10px;
 }
+@media only screen and (max-width:688px) {
+    .ten{
+        display: grid;
+        grid-template-columns:repeat(1,1fr) ;
+    }
+
+    
+}
+@media only screen and (max-width:992px) {
+.ten{
+    display: grid;
+    grid-template-columns:repeat(1,1fr) ;
+
+}
+}
