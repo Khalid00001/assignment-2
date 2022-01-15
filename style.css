@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&family=Nunito&family=Poppins&display=swap');
+
+body{
+    font-family: 'Maven Pro', sans-serif;
+    background-color: whitesmoke;
+}
+
+.one{font-size: 3em;
+font-weight:bolder;}
+.two{
+    
+    background-color: rgb(190, 65, 128);
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    
+ 
+    border-radius: 20px;
+}
+.three{text-decoration: none;
+    color: white;
+    font-weight: 800;
+    position:relative;
+top: 8px;}
+.four{display: flex;
+position: relative;
+justify-content: center;}
+.six{
+    text-align: center;
+    font-weight: 800;
+}
+.seven{
+    font-weight: 900;
+    font-size: 1.5em;
+}
+.eight{
+    display:flex;
+    color: rgb(177, 177, 9);
+}
+.five{background-color: white;
+height: 570px;
+width: 350px;
+border-radius: 10px;
+margin-top: 20px;
+padding-left: 40px;
+padding-top: 20px;
+padding-bottom: 15px;
+}
+.ten{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+}
+#eleven{
+    text-decoration: none;
+    font-weight: 800;
+    font-size: large;
+    color:  rgb(190, 65, 128);
+}
+.twelve{
+    text-align: end;
+    margin-right: 55px;
+    padding-top: 20px;
+}
+.thirteen img{height: 350px;
+width: 400px;
+}
+.fourteen{
+    display: flex;
+    justify-content: center;
+}
+.fifteen{
+    margin-left: 10px;
+align-items: center;
+}
+.sixteen{text-align: center;
+background-color: rgb(9, 9, 59);
+color: white;
+}
+#almost{
+ margin-right: 10px;
+}
